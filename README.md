@@ -1,6 +1,10 @@
 # <a href="https://www.linkedin.com/in/desmond-jefferson/">Desmond Jefferson</a>'s return to IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m eager to transition back into IT, focusing on cybersecurity. Through hands-on projects, I’ve gained experience in vulnerability management and threat detection, and I’m committed to improving security operations.
+
+I’m also focused on clear communication and collaborative problem-solving to develop practical security solutions. Check out my work to see how I’m ready to make a real impact as I enter the cybersecurity field.
+
+🚀 Always learning, always ready for new challenges.
 
 
 ## ⚠️ Vulnerability Management Projects
